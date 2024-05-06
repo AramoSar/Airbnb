@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "EleanorEmail-847750221ae1499c972c977f279d2d5e.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
